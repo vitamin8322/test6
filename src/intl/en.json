@@ -1,0 +1,19 @@
+{
+  "welcome": "Wellcome",
+  "email": "Email",
+  "password": "Password",
+  "rememberMe": "Save login",
+  "emailRequire": "Please enter your email address",
+  "emailInvalid": "Email address is not valid",
+  "repeatPassword": "Confirm password",
+  "region": "Region",
+  "state": "State",
+  "passwordRequire": "Please enter a password",
+  "minPasswordInvalid": "Password minimum 4 characters",
+  "repeatPasswordWrong": "Your passwords do no match",
+  "nameRequire":"Please enter your first and last name",
+  "regionRequire":"Please enter the country",
+  "stateRequire":"Please enter the state",
+  "register": "Register",
+  "name":"First and last name"
+}
